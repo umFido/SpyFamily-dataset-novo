@@ -1,0 +1,14 @@
+JSON de retorno do POST Request da API 
+
+{'data': 
+    {'Media': 
+        {'averageScore': 84, 'meanScore': 85, 'favourites': 471, 'popularity': 5343, 
+        'rankings': [
+            {'id': 17584, 'rank': 39}, 
+            {'id': 18176, 'rank': 131}, 
+            {'id': 23708, 'rank': 1}, 
+            {'id': 23770, 'rank': 1}
+            ]
+        }
+    }
+}

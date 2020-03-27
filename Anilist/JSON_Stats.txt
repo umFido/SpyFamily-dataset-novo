@@ -1,0 +1,26 @@
+{
+    'data': {
+        'Media': {
+            'id': 108556, 
+            'stats': {
+                'scoreDistribution': [
+                    {'score': 10, 'amount': 11}, 
+                    {'score': 30, 'amount': 8}, 
+                    {'score': 40, 'amount': 3}, 
+                    {'score': 50, 'amount': 9}, 
+                    {'score': 60, 'amount': 20}, 
+                    {'score': 70, 'amount': 102}, 
+                    {'score': 80, 'amount': 311}, 
+                    {'score': 90, 'amount': 597}, 
+                    {'score': 100, 'amount': 298}], 
+                'statusDistribution': [
+                    {'status': 'CURRENT', 'amount': 3858}, 
+                    {'status': 'PLANNING', 'amount': 1358}, 
+                    {'status': 'COMPLETED', 'amount': 20}, 
+                    {'status': 'DROPPED', 'amount': 26}, 
+                    {'status': 'PAUSED', 'amount': 81}
+                ]
+            }
+        }
+    }
+}
